@@ -11,7 +11,7 @@ const DEMO_POST = {
   caption:
     '🎁 Erba7 iPhone 17 Pro ! ✅ Téléchargi Dirsouk ✅ Follow Dirsouk sur TikTok et Instagram ✅ Tag 3 amis ✅ Republie la vidéo #dirsouk #iphone17promax #jeuconcours🎁 #algerie #fyp',
   likeCount: 6400,
-  commentCount: 65200,
+  commentCount: 82800,
   thumbnail: '/photos/dirsouk-post.png',
   avatar: '/photos/dirsouk-avatar.svg',
 }
